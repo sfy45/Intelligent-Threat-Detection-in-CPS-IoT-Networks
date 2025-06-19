@@ -51,7 +51,7 @@ Threat Classification (Attack / Benign)
 
 
 ## 🌐 Demo
-🔗 **Live App:** [Intelligent-Threat-Detection-in-CPS-IoT-Networks]([https://huggingface.co/spaces/sfy45/Intelligent-Threat-Detection-in-CPS-IoT-Networks])
+🔗 **Live App:** [Intelligent-Threat-Detection-in-CPS-IoT-Networks](https://huggingface.co/spaces/sfy45/Intelligent-Threat-Detection-in-CPS-IoT-Networks)
 
 ## 🚀 How to Run
 
